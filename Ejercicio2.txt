@@ -1,0 +1,11 @@
+Algoritmo Algoritmo2
+
+	Definir N como Entero
+	
+	Mostrar "Ingrese un numero entero"
+	Leer N
+	
+	Para i<-N Hasta 1 Con Paso -1 Hacer
+		Mostrar i
+	FinPara
+FinAlgoritmo
